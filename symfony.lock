@@ -47,6 +47,9 @@
             "./migrations/.gitignore"
         ]
     },
+    "nelmio/api-doc-bundle": {
+        "version": "v4.35.0"
+    },
     "symfony/console": {
         "version": "6.4",
         "recipe": {
